@@ -77,19 +77,20 @@ Hi there, I'm Achyuth Kalavala
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25">
 &nbsp;
+	<img src="https://img.shields.io/badge/Css-0078D4?style=for-the-badge&color=black" height="25">&nbsp;
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25">
 &nbsp;
     <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" height="25">
 &nbsp;
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" height="25">
 &nbsp;
-  
+ 
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25">
 &nbsp;
 	<img src="https://img.shields.io/badge/Java_Script_-0078D4?style=for-the-badge&logo=javascript&logoColor=yellow" height="25">&nbsp;
-	<img src="https://img.shields.io/badge/Css-0078D4?style=for-the-badge&color=black" height="25">&nbsp;
+	<img src="https://img.shields.io/badge/Spring_boot-%23575757.svg?&style=for-the-badge&logo=springboot&logoColor=green" height="25">
 	<img src="https://img.shields.io/badge/Chrome-0078D4?style=for-the-badge&color=green&logo=googlechrome&logoColor=white" height="25">&nbsp;
 	<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
 
