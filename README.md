@@ -116,9 +116,8 @@ Hi there, I'm Achyuth Kalavala
   <td width="50%" valign="top">
 
 ## Let's Work on Your Project Together!
-
-If you have any questions about front-end web development, feel free to <a href="mailto:kpachyuthz@gmail.com">contact me through email</a> or contact me in 
-<a href="https://www.linkedin.com/in/achyuth-kalavala-985b26159/">LinkedIn</a>
+If you have any questions about front-end web development, feel free to **<a href="mailto:kpachyuthz@gmail.com">contact me through email</a>** or contact me in 
+**<a href="https://www.linkedin.com/in/achyuth-kalavala-985b26159/">LinkedIn</a>**
 
   </td>
   <td width="50%" valign="top">
@@ -134,4 +133,16 @@ If you have any questions about front-end web development, feel free to <a href=
   </tr>
 </table>
 </br>
+
+## <img src="https://media.tenor.com/images/7e96d994f29b388f63f7aa77ff2bea78/tenor.gif" width="25"> <b> Know more about me 👋</b>
+[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:kpachyuthz@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in//achyuth-kalavala-985b26159/)
+[![Stack Overflow](https://img.shields.io/badge/-StackOverflow-black?style=for-the-badge&logo=StackOverflow)](https://stackoverflow.com/)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-black?style=for-the-badge&logo=Hackerrank)](https://www.hackerrank.com/)
+[![Sololearn](https://img.shields.io/badge/-Sololearn-black?style=for-the-badge&logo=Sololearn)](https://www.sololearn.com/)
+[![Instagram](https://img.shields.io/badge/-instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/)
+[![Spotify](https://img.shields.io/badge/-spotify-black?style=for-the-badge&logo=spotify)](https://www.spotify.com/)
+
+<br>
 <h6 align="center">Made with ❤️ by Me (probably)</h6>
