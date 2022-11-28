@@ -1,7 +1,13 @@
 ### Hi there 👋
 
-<!--
+
 **achyuthkp27/achyuthkp27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<div align="center">
+  <a href="https://achyuthkp27.github.io/Portfolio/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 Here are some ideas to get you started:
 
@@ -13,4 +19,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
