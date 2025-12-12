@@ -56,6 +56,10 @@
 ### 📝 Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [What is VPN and How it Works?](https://kpachyuthz.medium.com/what-is-vpn-and-how-it-works-3da8dcc0c1c5?source=rss-683f0581887c------2)
+- [What is the difference between Virtual Reality, Augmented Reality, and Mixed Reality?](https://medium.com/the-narrow-world/what-is-the-difference-between-virtual-reality-augmented-reality-and-mixed-reality-fac2bff0551?source=rss-683f0581887c------2)
+- [What is Artificial Intelligence?](https://medium.com/the-narrow-world/what-is-artificial-intelligence-1b7cc6731cc4?source=rss-683f0581887c------2)
+- [What are the different types of Artificial Intelligence?](https://medium.com/the-narrow-world/what-are-the-different-types-of-artificial-intelligence-a5e5fdee92b8?source=rss-683f0581887c------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
