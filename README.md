@@ -3,7 +3,7 @@
 
 > Software Engineer based in Bengaluru. Specializing in designing scalable backend systems and exploring Generative AI & Agentic Workflows.
 
-[![](https://img.shields.io/badge/kpachyuthz@gmail.com-D14836?logo=gmail&style=social)](mailto:kpachyuthz@gmail.com)
+[![](https://img.shields.io/badge/Email-D14836?logo=gmail&style=social)](mailto:kpachyuthz@gmail.com)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=social)](https://www.linkedin.com/in/kpachyuth)
 [![](https://img.shields.io/badge/Medium-000000?logo=medium&style=social)](https://medium.com/@kpachyuthz)
 
@@ -40,6 +40,23 @@
 *Jul 2020 - Aug 2020*
 - Collaborated on Web Development and AI/ML projects.
 - Built effective solutions for real-world problems in a team environment.
+
+---
+
+### 🛠️ Featured Projects
+
+- **[Project Name 1](https://github.com/achyuthkp27/project-1)** (Java, Spring Boot)  
+  *Brief description of the project and its impact. (e.g., "A scalable microservices architecture handling 10k requests/sec")*
+
+- **[Project Name 2](https://github.com/achyuthkp27/project-2)** (Python, Gen AI)  
+  *Brief description of the project. (e.g., "LLM agent capable of autonomous code review")*
+
+---
+
+### 📝 Latest Writing
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
