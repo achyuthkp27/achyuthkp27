@@ -1,4 +1,3 @@
-
 <div align="center">
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Achyuth+Kalavala;Full+Stack+Software+Developer;Competitive+Programming+Enthusiast;Problem+Solver" alt="Typing SVG" />
@@ -7,23 +6,39 @@
     <b>Software Engineer | Technical Content Writer | Data Analysis Enthusiast</b>
   </p>
 
+  <!-- Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=achyuthkp27&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
+  </a>
+
+  <br/><br/>
+
   <p>
      I'm a passionate developer obsessed with <b>building scalable systems</b> and <b>improving everyday</b>. <br/>
      Data Structures, Algorithms, and System Design are my jam. 🚀
   </p>
 
-  <br/>
+</div>
 
-  <a href="https://github.com/achyuthkp27">
-    <img src="https://github-readme-stats.vercel.app/api?username=achyuthkp27&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats graph" />
-  </a>
-  <a href="https://github.com/achyuthkp27">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achyuthkp27&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="languages graph" />
-  </a>
+<br/>
 
-  <br/>
-  <br/>
+<!-- Stats Dashboard -->
+<div align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=achyuthkp27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="stats graph" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achyuthkp27&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" alt="languages graph" />
+    </td>
+  </tr>
+</table>
+</div>
 
+<br/>
+
+<div align="center">
   <h3>💻 Tech Stack</h3>
 
   <!-- Languages -->
@@ -52,10 +67,20 @@
   <br/>
   <br/>
 
-  <h3>🔥 Streak & Activity</h3>
+  <!-- Streak -->
   <a href="https://github.com/achyuthkp27">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=achyuthkp27&theme=tokyonight&hide_border=true" alt="streak stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=achyuthkp27&theme=tokyonight&hide_border=true&background=00000000" alt="streak stats" />
   </a>
+
+  <br/>
+  <br/>
+
+  <!-- Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/achyuthkp27/achyuthkp27/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/achyuthkp27/achyuthkp27/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/achyuthkp27/achyuthkp27/blob/output/github-contribution-grid-snake.svg">
+  </picture>
 
   <br/>
   <br/>
@@ -74,5 +99,7 @@
   <a href="https://instagram.com/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <br/>
+  <br/>
 
 </div>
