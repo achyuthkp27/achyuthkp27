@@ -3,8 +3,8 @@
 
 > Software Engineer based in Bengaluru. Specializing in designing scalable backend systems and exploring Generative AI & Agentic Workflows.
 
-[![](https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/kpachyuth)
-[![](https://img.shields.io/badge/Medium-black?style=social&logo=medium)](https://medium.com/@kpachyuthz)
+[![](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)](https://www.linkedin.com/in/kpachyuth)
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium)](https://medium.com/@kpachyuthz)
 
 ---
 
