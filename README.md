@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=200&section=header&text=Achyuth%20KP&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Generative%20AI%20Enthusiast%20%7C%20Microservices%20Architect&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" alt="header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=200&section=header&text=Achyuth%20KP&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Generative%20AI%20Enthusiast%20%7C%20Microservices%20Architect&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" alt="header banner" />
 
 <a href="https://github.com/achyuthkp27">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=800&lines=Building+scalable+backend+systems+in+Java+%26+Spring+Boot;Exploring+Generative+AI+%26+Agentic+Workflows;Based+in+Bengaluru%2C+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=800&lines=Building+scalable+backend+systems+%26+microservices;Exploring+Generative+AI+%26+Agentic+Workflows;Based+in+Bengaluru%2C+India" alt="Typing SVG" />
 </a>
 
 <p>
@@ -26,7 +26,6 @@
 
 <p align="center">
   <b>Languages &amp; Frameworks</b><br/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="26" alt="java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" height="26" alt="spring boot" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="26" alt="python" />
 </p>
