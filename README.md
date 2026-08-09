@@ -180,12 +180,12 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/achyuthkp27/achyuthkp27/profile-summary-card-output/profile-summary-card-output/github_dark/0-profile-details.svg" width="49%" alt="profile details" />
-<img src="https://raw.githubusercontent.com/achyuthkp27/achyuthkp27/profile-summary-card-output/profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="github stats" />
+<img src="https://raw.githubusercontent.com/achyuthkp27/achyuthkp27/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="49%" alt="profile details" />
+<img src="https://raw.githubusercontent.com/achyuthkp27/achyuthkp27/main/profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="github stats" />
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/achyuthkp27/achyuthkp27/profile-summary-card-output/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="repos per language" />
+<img src="https://raw.githubusercontent.com/achyuthkp27/achyuthkp27/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="repos per language" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=achyuthkp27&theme=tokyonight&hide_border=true&background=00000000" width="49%" alt="github streak stats" />
 
 <br/>

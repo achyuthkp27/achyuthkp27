@@ -22,6 +22,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          BRANCH_NAME: "profile-summary-card-output"
+          BRANCH_NAME: "main"
           THEME: "github_dark"
           EXCLUDE: ""
