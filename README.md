@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=200&section=header&text=Achyuth%20KP&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Generative%20AI%20Enthusiast%20%7C%20Microservices%20Architect&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" alt="header banner" />
 
 <a href="https://github.com/achyuthkp27">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=650&lines=Building+scalable+backend+systems+in+Java+%26+Spring+Boot;Exploring+Generative+AI+%26+Agentic+Workflows;Based+in+Bengaluru%2C+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=800&lines=Building+scalable+backend+systems+in+Java+%26+Spring+Boot;Exploring+Generative+AI+%26+Agentic+Workflows;Based+in+Bengaluru%2C+India" alt="Typing SVG" />
 </a>
 
 <p>
