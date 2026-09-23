@@ -107,7 +107,7 @@ I spent five years building the systems that move money: Spring Boot microservic
 
 ## Experience
 
-**Cognizant** · Associate Software Engineer, First Citizens Bank platform · *Apr 2026 – present*
+**Cognizant** · Software Engineer, First Citizens Bank platform · *Apr 2026 – present*
 Same platform, team, and client carried over from FIS Global after a client-driven rebadge. Backend API architecture on Java 21, Spring Boot 3.5, and Kafka in a 25+ engineer delivery team; mentoring junior engineers on testing and CI/CD discipline.
 
 **FIS Global** · Software Engineer → Senior Software Engineer · *Jul 2021 – Apr 2026*
