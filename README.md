@@ -20,6 +20,10 @@ I spent five years building the systems that move money: Spring Boot microservic
 - 📍 Bengaluru, India · open to opportunities
 - 🌐 Everything below, with live demos, at **[achyuthkp27.github.io/Portfolio](https://achyuthkp27.github.io/Portfolio/)**
 
+https://github.com/user-attachments/assets/05129d46-8ab1-48b7-bc1a-be3742382bd0
+
+<sub>A 60-second tour of my portfolio. Music: "Cinematic Minimal Orchestral Percussion Trailer" by Gregor Quendel, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</sub>
+
 ## What I work with
 
 <p>
