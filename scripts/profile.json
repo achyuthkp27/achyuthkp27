@@ -1,0 +1,117 @@
+{
+  "name": "Achyuth KP",
+  "label": "Software Engineer · Backend & AI",
+  "headline": "Reliable systems. Useful AI.",
+  "tagline": "Five years of backend engineering on a regulated banking platform, now applied to AI products that ship, verify, and hold up in production.",
+  "footnote": "In production since Jul 2021 · Bengaluru, India · Open to opportunities",
+  "site": "https://achyuthkp27.github.io/Portfolio/",
+  "links": [
+    { "label": "View portfolio", "href": "https://achyuthkp27.github.io/Portfolio/", "primary": true, "file": "portfolio" },
+    { "label": "LinkedIn", "href": "https://www.linkedin.com/in/kpachyuth", "file": "linkedin" },
+    { "label": "Medium", "href": "https://medium.com/@kpachyuthz", "file": "medium" },
+    { "label": "Email", "href": "mailto:kpachyuthz@gmail.com", "file": "email" },
+    { "label": "Résumé", "href": "https://achyuthkp27.github.io/Portfolio/achyuth-kp-resume.pdf", "file": "resume" }
+  ],
+  "video": {
+    "url": "https://github.com/user-attachments/assets/05129d46-8ab1-48b7-bc1a-be3742382bd0",
+    "credit": "A 60-second tour of my portfolio. Music: \"Cinematic Minimal Orchestral Percussion Trailer\" by Gregor Quendel, <a href=\"https://creativecommons.org/licenses/by/4.0/\">CC BY 4.0</a>."
+  },
+  "featured": [
+    {
+      "slug": "portfolio",
+      "title": "Portfolio",
+      "meta": "Web · React · TypeScript · Open source",
+      "body": "The site itself: one long scroll story with a WebGL particle portrait, a ⌘K menu, a working terminal, and hands-on demos of banking controls, including a maker-checker approval flow and an RFC 6238 TOTP generator.",
+      "href": "https://achyuthkp27.github.io/Portfolio/",
+      "link": "achyuthkp27.github.io/Portfolio"
+    },
+    {
+      "slug": "aegisai",
+      "title": "AegisAI",
+      "meta": "Java · Spring AI · Kafka · MCP",
+      "body": "A multi-tenant GenAI platform for banking operations: a compliance copilot that answers only from ingested documents with citations, Kafka-triggered dispute agents with human approval, an OAuth2-secured MCP server, PII and prompt-injection guardrails, and a sovereign mode with zero data egress.",
+      "href": "https://github.com/achyuthkp27/spring-ai-langchain4j",
+      "link": "github.com/achyuthkp27/spring-ai-langchain4j"
+    },
+    {
+      "slug": "kairo",
+      "title": "Kairo, an offline-first AI bank",
+      "meta": "Mobile · React Native · On-device Qwen",
+      "body": "Mobile banking with an assistant that runs on the phone. It answers questions about your accounts, finds transactions by meaning, flags odd charges, and plans bills. Nothing is sent to a server; every feature works in airplane mode.",
+      "href": "https://github.com/achyuthkp27/kairo-offline-ai-bank",
+      "link": "github.com/achyuthkp27/kairo-offline-ai-bank"
+    },
+    {
+      "slug": "voxos",
+      "title": "VoxOs",
+      "meta": "macOS · Swift · On-device speech",
+      "body": "A native voice dictation and voice-to-action agent for the Mac. Speech is transcribed on the machine and turned into typing at the cursor, app focus, and shell commands. Audio never leaves the Mac.",
+      "href": "https://github.com/achyuthkp27/VoxOs",
+      "link": "github.com/achyuthkp27/VoxOs"
+    }
+  ],
+  "more": [
+    {
+      "slug": "forgefit",
+      "title": "ForgeFit",
+      "meta": "iOS · Android · React Native",
+      "body": "A fitness tracker with a coach you can talk to: three-tap logging, timers that survive the background, supersets, personal records, and 28 days of progress.",
+      "href": "https://github.com/achyuthkp27/forge-fit"
+    },
+    {
+      "slug": "kiosk",
+      "title": "Kiosk banking",
+      "meta": "Web · Windows · macOS · Tauri",
+      "body": "A cross-platform banking kiosk with secure sign-in, an on-screen keyboard, and several languages, packaged natively for the web, Windows, and macOS.",
+      "href": "https://github.com/achyuthkp27/cross-platform-kiosk-banking"
+    },
+    {
+      "slug": "chat",
+      "title": "Real-time chat",
+      "meta": "Spring Boot · WebSockets · React",
+      "body": "WhatsApp-style chat over STOMP: group chats with admin approval, private messages with read receipts, typing indicators, and file sharing.",
+      "href": "https://github.com/achyuthkp27/ChatApp-Websocket"
+    },
+    {
+      "slug": "yttheme",
+      "title": "ytTheme",
+      "meta": "Chrome extension · MV3",
+      "body": "A calmer YouTube: hides Shorts, ads, and noise, and lays the page out in glass over your own wallpaper, with a topic and sort bar.",
+      "href": "https://github.com/achyuthkp27/ytTheme"
+    }
+  ],
+  "experience": [
+    {
+      "org": "Cognizant",
+      "role": "Software Engineer · First Citizens Bank platform",
+      "dates": "Apr 2026 – present",
+      "body": "Same platform, team, and client, carried over from FIS Global. Backend API architecture on Java 21, Spring Boot 3.5, and Kafka in a 25+ engineer delivery team, and mentoring junior engineers on testing and CI/CD."
+    },
+    {
+      "org": "FIS Global",
+      "role": "Software Engineer → Senior Software Engineer",
+      "dates": "Jul 2021 – Apr 2026",
+      "body": "Spring Boot microservices across a 30+ service estate for retail, mobile, and corporate banking: maker-checker authorisation for PCI-DSS and SOX, card-on-file tokenisation for Visa and Mastercard, RFC 6238 TOTP with push approval, Video KYC, LLM banking assistants, and the ELK and Kafka observability rollout."
+    },
+    {
+      "org": "Aniworks",
+      "role": "Software Development Intern",
+      "dates": "Jul 2020 – Aug 2020",
+      "body": ""
+    }
+  ],
+  "award": "Above & Beyond Individual Award · FIS Global · Q1 2024, for critical project delivery",
+  "education": "B.E. Computer Science and Engineering · Sri Siddhartha Institute of Technology · 2017 – 2021",
+  "stack": [
+    { "group": "Backend", "items": ["Java 21", "Spring Boot", "Spring Security", "PostgreSQL", "Redis"] },
+    { "group": "Events and delivery", "items": ["Apache Kafka", "Docker", "Kubernetes", "AWS", "Elastic Stack"] },
+    { "group": "AI", "items": ["Spring AI", "LangChain4j", "On-device LLMs (Qwen)", "RAG · Vector search", "Python"] },
+    { "group": "Apps", "items": ["Swift", "TypeScript", "React", "React Native"] }
+  ],
+  "cta": {
+    "title": "Let's talk.",
+    "body": "Building something serious with backend systems, or the AI on top of them?",
+    "link": "achyuthkp27.github.io/Portfolio",
+    "href": "https://achyuthkp27.github.io/Portfolio/#contact"
+  }
+}
